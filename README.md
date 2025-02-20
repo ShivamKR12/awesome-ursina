@@ -18,31 +18,31 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 ## 🎮 **Games**
 - **Ursina-Projects**
-  A collection of basic games including Build and Destroy, Breakout, FPS, Maze, and Skipping Stone, created with the Ursina Engine. [GitHub Repository](https://github.com/DawoodLaiq/Ursina-Projects)
+  A collection of basic games including Build and Destroy, Breakout, FPS, Maze, and Skipping Stone, created with the Ursina Engine. [Ursina-Projects](https://github.com/DawoodLaiq/Ursina-Projects)
 
 - **2D Platformer Game**
-  An experimental 2D platformer game featuring random enemy spawning, built using the Ursina Python Engine. [GitHub Repository](https://github.com/OfficialAhmed/2D-GAME-IN-URSINA)
+  An experimental 2D platformer game featuring random enemy spawning, built using the Ursina Python Engine. [2D-GAME-IN-URSINA](https://github.com/OfficialAhmed/2D-GAME-IN-URSINA)
 
 - **UrsinaFPS**
-  A small multiplayer FPS game developed in Python 3 using the Ursina Engine. [GitHub Repository](https://github.com/MysteryCoder456/UrsinaFPS)
+  A small multiplayer FPS game developed in Python 3 using the Ursina Engine. [UrsinaFPS](https://github.com/MysteryCoder456/UrsinaFPS)
 
 - **Minecraft with Python**
-  A simple Minecraft-like game made with Python and the Ursina Engine. [GitHub Repository](https://github.com/Spyder-0/Minecraft-with-Python)
+  A simple Minecraft-like game made with Python and the Ursina Engine. [Minecraft-with-Python](https://github.com/Spyder-0/Minecraft-with-Python)
 
 - **2D Car Game Using Ursina Engine**
-  A basic 2D car racing game developed with Python and Ursina, demonstrating simple game mechanics. [GitHub Repository](https://github.com/thecrood/2D-Car-Game-Using-Ursina-Game-Engine)
+  A basic 2D car racing game developed with Python and Ursina, demonstrating simple game mechanics. [2D-Car-Game-Using-Ursina-Game-Engine](https://github.com/thecrood/2D-Car-Game-Using-Ursina-Game-Engine)
 
 ---
 
 ## 🛠️ **Tools & Extensions**
 - **Ursina Networking**
-  A networking module for multiplayer games. [GitHub Repository](https://github.com/StormDragon101/UrsinaNetworking)
+  A networking module for multiplayer games. [UrsinaNetworking](https://github.com/kstzl/UrsinaNetworking)
 
 - **Ursina More UI**
-  Additional UI components and models for the Ursina Engine. [GitHub Repository](https://github.com/Creator754915/Ursina.More.UI)
+  Additional UI components and models for the Ursina Engine. [Ursina.More.UI](https://github.com/Creator754915/Ursina.More.UI)
 
 - **Ursina Procedural Generation**
-  A basic procedural generation system in Python using the Ursina module, including a rudimentary chunk rendering system. [GitHub Repository](https://github.com/BellVirtual/Ursina_Procedural_Generation)
+  A basic procedural generation system in Python using the Ursina module, including a rudimentary chunk rendering system. [Ursina_Procedural_Generation](https://github.com/BellVirtual/Ursina_Procedural_Generation)
 
 ---
 
@@ -63,13 +63,13 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 ## 🌟 **Showcase & Inspiration**
 - **ZenoReality**
-  A fun action game made in Ursina and Python, featuring an interactive controller for gameplay. [GitHub Repository](https://github.com/sitongfX/ZenoReality)
+  A fun action game made in Ursina and Python, featuring an interactive controller for gameplay. [ZenoReality](https://github.com/sitongfX/ZenoReality)
 
 - **Pycraft**
-  A Minecraft-like game built using the Ursina Engine in Python, allowing players to build structures and explore a voxel-based world. [GitHub Repository](https://github.com/Yixboost/Pycraft)
+  A Minecraft-like game built using the Ursina Engine in Python, allowing players to build structures and explore a voxel-based world. [Pycraft](https://github.com/Yixboost/Pycraft)
 
 - **Bad Apple in Ursina**
-  A visual demonstration of the "Bad Apple" video rendered within the Ursina engine. [GitHub Repository](https://github.com/THEGOLDENPRO/Bad-Apple-in-Ursina)
+  A visual demonstration of the "Bad Apple" video rendered within the Ursina engine. [Bad-Apple-in-Ursina](https://github.com/THEGOLDENPRO/Bad-Apple-in-Ursina)
 
 ---
 
