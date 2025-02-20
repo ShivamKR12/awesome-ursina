@@ -32,6 +32,30 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 - **2D Car Game Using Ursina Engine**
   A basic 2D car racing game developed with Python and Ursina, demonstrating simple game mechanics. [2D-Car-Game-Using-Ursina-Game-Engine](https://github.com/thecrood/2D-Car-Game-Using-Ursina-Game-Engine)
 
+- **Rally**
+   A Simple Racing Game Made In Python With The Ursina Engine. [Rally](https://github.com/mandaw2014/Rally)
+  
+- **UrsinaFPS**
+   Multiplayer FPS game made in Ursina Engine. [UrsinaFPS](https://github.com/MysteryCoder456/UrsinaFPS)
+  
+- **Sandbox**
+   A Simple Fast Paced FPS made in Python using the Ursina Engine. [Sandbox](https://github.com/mandaw2014/Sandbox)
+  
+- **mandaw_openworld**
+   An Open World Game Made With The Ursina Game Engine. [mandaw_openworld](https://github.com/mandaw2014/mandaw_openworld)
+
+- **LifeGame**
+  A cellular automata-based 3D PvP online game. [LifeGame](https://github.com/clomia/LifeGame)
+
+- **Ursina-Car-Game-3D**
+  A 3D car game developed in Ursina; run the file CarGame3D.py. [Ursina-Car-Game-3D](https://github.com/Raphi-2Code/Ursina-Car-Game-3D)
+
+- **pito**
+  "Picnic in the Oblivion" - a remake of the J2ME game STALKER Mobile 3D on the Ursina engine. [pito](https://github.com/Lekksii/pito)
+
+- **PYGAME-PROJECTS**
+  A collection of games developed using Pygame and Ursina. [PYGAME-PROJECTS](https://github.com/ItsRoy69/PYGAME-PROJECTS)
+
 ---
 
 ## 🛠️ **Tools & Extensions**
@@ -43,6 +67,21 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - **Ursina Procedural Generation**
   A basic procedural generation system in Python using the Ursina module, including a rudimentary chunk rendering system. [Ursina_Procedural_Generation](https://github.com/BellVirtual/Ursina_Procedural_Generation)
+
+- **Bullet-for-ursina**
+   Bullet physics integration for the Ursina Engine. [Bullet-for-ursina](https://github.com/LooksForFuture/Bullet-for-ursina)
+  
+- **Ursina-Lighting**
+   Realistic lighting in Ursina. [Ursina-Lighting](https://github.com/Tusnad30/Ursina-Lighting)
+
+- **UrsinaShaderBuilder**
+  An attempt at creating a visual node-based shader builder for Ursina. [GitHub Repository](https://github.com/Werxzy/UrsinaShaderBuilder)
+
+- **ursina_shaders**
+  A collection of shaders that can be useful for Ursina projects. [GitHub Repository](https://github.com/ano0002/ursina_shaders)
+
+- **UrsinaForMobile**
+  A repository to assist in porting Ursina games to mobile platforms (Android only). [GitHub Repository](https://github.com/PaologGithub/UrsinaForMobile)
 
 ---
 
@@ -59,6 +98,8 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 - **Advanced Shaders in Ursina**
   Create custom shaders and visual effects. [Read the Tutorial](https://www.ursinaengine.org/shader_programming.html)
 
+- **ursina_tutorials**
+   Collection of tutorials for the Ursina Engine. [ursina_tutorials](https://github.com/RedHenDev/ursina_tutorials)
 ---
 
 ## 🌟 **Showcase & Inspiration**
@@ -70,6 +111,9 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - **Bad Apple in Ursina**
   A visual demonstration of the "Bad Apple" video rendered within the Ursina engine. [Bad-Apple-in-Ursina](https://github.com/THEGOLDENPRO/Bad-Apple-in-Ursina)
+
+- **Minecraft Clone**
+   A Minecraft clone using Python and Ursina. [minecraft-clone](https://github.com/kairess/minecraft-clone)
 
 ---
 
