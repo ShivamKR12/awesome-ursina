@@ -62,6 +62,10 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 - **Ursina Networking**
   A networking module for multiplayer games. [UrsinaNetworking](https://github.com/kstzl/UrsinaNetworking)
 
+- **UrsinaAchievements**  
+  An achievements system for games built with the Ursina Engine. [UrsinaAchievements](https://github.com/megat69/UrsinaAchievements)
+
+
 - **Ursina More UI**
   Additional UI components and models for the Ursina Engine. [Ursina.More.UI](https://github.com/Creator754915/Ursina.More.UI)
 
