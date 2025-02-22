@@ -62,9 +62,8 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 - **Ursina Networking**
   A networking module for multiplayer games. [UrsinaNetworking](https://github.com/kstzl/UrsinaNetworking)
 
-- **UrsinaAchievements**  
+- **UrsinaAchievements**
   An achievements system for games built with the Ursina Engine. [UrsinaAchievements](https://github.com/megat69/UrsinaAchievements)
-
 
 - **Ursina More UI**
   Additional UI components and models for the Ursina Engine. [Ursina.More.UI](https://github.com/Creator754915/Ursina.More.UI)
@@ -79,13 +78,13 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
    Realistic lighting in Ursina. [Ursina-Lighting](https://github.com/Tusnad30/Ursina-Lighting)
 
 - **UrsinaShaderBuilder**
-  An attempt at creating a visual node-based shader builder for Ursina. [GitHub Repository](https://github.com/Werxzy/UrsinaShaderBuilder)
+  An attempt at creating a visual node-based shader builder for Ursina. [UrsinaShaderBuilder](https://github.com/Werxzy/UrsinaShaderBuilder)
 
 - **ursina_shaders**
-  A collection of shaders that can be useful for Ursina projects. [GitHub Repository](https://github.com/ano0002/ursina_shaders)
+  A collection of shaders that can be useful for Ursina projects. [ursina_shaders](https://github.com/ano0002/ursina_shaders)
 
 - **UrsinaForMobile**
-  A repository to assist in porting Ursina games to mobile platforms (Android only). [GitHub Repository](https://github.com/PaologGithub/UrsinaForMobile)
+  A repository to assist in porting Ursina games to mobile platforms (Android only). [UrsinaForMobile](https://github.com/PaologGithub/UrsinaForMobile)
 
 ---
 
