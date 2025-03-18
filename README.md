@@ -125,23 +125,21 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
   
 - [Python Ursina by Red Hen Dev](https://www.youtube.com/playlist?list=PLmP1LNMzp97rEb3oP3PPeiKUGVTfr1i6L) - Learn how to build 3D scenes, solar systems, and more with Ursina.
   
-- [Python Games by Coder Space](https://www.youtube.com/playlist?list=PLmP1LNMzp97rIbwnGHhjjobHHqWekxy8Y) - Advanced projects including a DOOM-style game and a Minecraft-like voxel engine.
+- [Python Minecraft with Ursina](https://www.youtube.com/playlist?list=PLmP1LNMzp97rIbwnGHhjjobHHqWekxy8Y) - Red Hen Dev's detailed series on creating Minecraft-like games with procedural Perlin Noise terrain.
   
-- [Python Minecraft with Ursina](https://www.youtube.com/playlist?list=PL29Videos) - Red Hen Dev's detailed series on creating Minecraft-like games with procedural Perlin Noise terrain.
+- [Curso Ursina Engine Python](https://www.youtube.com/playlist?list=PLicpq7cIR3lLVdLhossKZVInQTq4PbHlZ) - Spanish-language course by Victor Miguel Barrera Peña, covering the basics of Ursina.
   
-- [Curso Ursina Engine Python](https://www.youtube.com/playlist?list=PL6Videos) - Spanish-language course by Victor Miguel Barrera Peña, covering the basics of Ursina.
+- [Ursina by Billy Earney](https://www.youtube.com/playlist?list=PL63mgCrh_1ymmpywUNGo05LuWkrbxw0IS) - Massive collection of tutorials on various Ursina projects including Rubik's Cube and 3D Snake Game.
   
-- [Ursina by Billy Earney](https://www.youtube.com/playlist?list=PL78Videos) - Massive collection of tutorials on various Ursina projects including Rubik's Cube and 3D Snake Game.
+- [Ursina Parkour](https://www.youtube.com/playlist?list=PLXiS3HrdLFMFBNBroGKa2NvsNPVm43NqA) - Mandaw's timelapse videos demonstrating parkour mechanics and third-person controllers in Ursina.
   
-- [Ursina Parkour](https://www.youtube.com/playlist?list=PL6Videos) - Mandaw's timelapse videos demonstrating parkour mechanics and third-person controllers in Ursina.
+- [Ursina Dersleri](https://www.youtube.com/playlist?list=PLLgbBWTxGcelkVYZdBtP_76ERhtHy8bfR) - Turkish tutorials by Online Python Dersim covering object coloring and space-themed projects.
   
-- [Ursina Dersleri](https://www.youtube.com/playlist?list=PL13Videos) - Turkish tutorials by Online Python Dersim covering object coloring and space-themed projects.
+- [Ursina for Beginners](https://www.youtube.com/playlist?list=PLGziBootmnjKXdZh-Qec0DcShJlfmedw0) - Code and Craft's beginner-friendly tutorials on basic shapes, textures, and first-person controllers.
   
-- [Ursina for Beginners](https://www.youtube.com/playlist?list=PL10Videos) - Code and Craft's beginner-friendly tutorials on basic shapes, textures, and first-person controllers.
+- [Desenv De Jogos - Python Ursina](https://www.youtube.com/playlist?list=PLusI35eERodmBc8XvSLFMhm587oTkNqw8) - DevCode BR's Portuguese-language series on game development with Ursina.
   
-- [Desenv De Jogos - Python Ursina](https://www.youtube.com/playlist?list=PL6Videos) - DevCode BR's Portuguese-language series on game development with Ursina.
-  
-- [Coding Minecraft in Python](https://www.youtube.com/playlist?list=PL22Videos) - Red Hen Dev's tutorials on building Minecraft in Python using Ursina.
+- [Coding Minecraft in Python](https://www.youtube.com/playlist?list=PLmP1LNMzp97pQe1FiGpdOLKeWYfTMZM7n) - Red Hen Dev's tutorials on building Minecraft in Python using Ursina.
   
 ---
 
