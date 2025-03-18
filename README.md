@@ -113,19 +113,19 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
   
 - [Introduction to Platformer in Ursina Engine in Python](https://www.youtube.com/playlist?list=PLgQYnHnDxgtjILmQbQXQeUTHiLLSRkSuk) - MK Coding Space's tutorial series focusing on building platformer games using Ursina.
   
-- [Free Course on Ursina Engine by Coding Blocks Junior](https://www.youtube.com/playlist?list=PL11Videos) - Certified course covering game and animation development using Ursina.
+- [Free Course on Ursina Engine by Coding Blocks Junior](https://www.youtube.com/playlist?list=PLhLbJ9UoJCvvXyA8y8MIftke5WKHDgNhp) - Certified course covering game and animation development using Ursina.
   
-- [Games Made with Ursina Engine](https://www.youtube.com/playlist?list=PL15Videos) - ZippyCode showcases various games built using Ursina, including Flappy Bird and 2D GTA.
+- [Games Made with Ursina Engine](https://www.youtube.com/playlist?list=PLp0VWjYTx3ErmBbqWU94ikwilvmB1Grf8) - ZippyCode showcases various games built using Ursina, including Flappy Bird and 2D GTA.
   
-- [Game Making with Ursina Engine (Python)](https://www.youtube.com/playlist?list=PL9Videos) - Code 3D explains how to apply shaders and build third-person games using Ursina.
+- [Game Making with Ursina Engine (Python)](https://www.youtube.com/playlist?list=PLb5cYYYZuk_7aa0_C4ddqxFz4cBCKfELA) - Code 3D explains how to apply shaders and build third-person games using Ursina.
   
-- [Ursina Python Game Development](https://www.youtube.com/playlist?list=PL7Videos) - First-person shooter game development tutorial series by I Know Python.
+- [Ursina Python Game Development](https://www.youtube.com/playlist?list=PL288dDBJtFXCc99ms2F-aFCR7Ike2fzVG) - First-person shooter game development tutorial series by I Know Python.
   
-- [Ursina by Pratangsu Dev](https://www.youtube.com/playlist?list=PL25Videos) - Step-by-step tutorials covering Ursina installation, entity management, and text rendering.
+- [Ursina by Pratangsu Dev](https://www.youtube.com/playlist?list=PL42jyOjV9OVlTpnjySu6q7KMiHeuqs8NW) - Step-by-step tutorials covering Ursina installation, entity management, and text rendering.
   
-- [Python Ursina by Red Hen Dev](https://www.youtube.com/playlist?list=PL20Videos) - Learn how to build 3D scenes, solar systems, and more with Ursina.
+- [Python Ursina by Red Hen Dev](https://www.youtube.com/playlist?list=PLmP1LNMzp97rEb3oP3PPeiKUGVTfr1i6L) - Learn how to build 3D scenes, solar systems, and more with Ursina.
   
-- [Python Games by Coder Space](https://www.youtube.com/playlist?list=PL18Videos) - Advanced projects including a DOOM-style game and a Minecraft-like voxel engine.
+- [Python Games by Coder Space](https://www.youtube.com/playlist?list=PLmP1LNMzp97rIbwnGHhjjobHHqWekxy8Y) - Advanced projects including a DOOM-style game and a Minecraft-like voxel engine.
   
 - [Python Minecraft with Ursina](https://www.youtube.com/playlist?list=PL29Videos) - Red Hen Dev's detailed series on creating Minecraft-like games with procedural Perlin Noise terrain.
   
