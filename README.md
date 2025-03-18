@@ -105,6 +105,46 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
    Collection of tutorials for the Ursina Engine. [ursina_tutorials](https://github.com/RedHenDev/ursina_tutorials)
 ---
 
+## 🎥 Video Tutorials
+
+- [Ursina Engine – 3D Python Game Engine Tutorial](https://www.youtube.com/playlist?list=PLgQYnHnDxgtg-I3m01mGc5wfJwqpT9S3i) - Comprehensive tutorial series by MK Coding Space covering installation, shapes, colors, and text.
+  
+- [Getting Started In Ursina](https://www.youtube.com/playlist?list=PL_WTdhuueDrGWLdbjJjKcBhDVun1OElGE) - Beginner-friendly tutorials by Ursina Tutorials to get started with Ursina for 3D Python game development.
+  
+- [Introduction to Platformer in Ursina Engine in Python](https://www.youtube.com/playlist?list=PLgQYnHnDxgtjILmQbQXQeUTHiLLSRkSuk) - MK Coding Space's tutorial series focusing on building platformer games using Ursina.
+  
+- [Free Course on Ursina Engine by Coding Blocks Junior](https://www.youtube.com/playlist?list=PL11Videos) - Certified course covering game and animation development using Ursina.
+  
+- [Games Made with Ursina Engine](https://www.youtube.com/playlist?list=PL15Videos) - ZippyCode showcases various games built using Ursina, including Flappy Bird and 2D GTA.
+  
+- [Game Making with Ursina Engine (Python)](https://www.youtube.com/playlist?list=PL9Videos) - Code 3D explains how to apply shaders and build third-person games using Ursina.
+  
+- [Ursina Python Game Development](https://www.youtube.com/playlist?list=PL7Videos) - First-person shooter game development tutorial series by I Know Python.
+  
+- [Ursina by Pratangsu Dev](https://www.youtube.com/playlist?list=PL25Videos) - Step-by-step tutorials covering Ursina installation, entity management, and text rendering.
+  
+- [Python Ursina by Red Hen Dev](https://www.youtube.com/playlist?list=PL20Videos) - Learn how to build 3D scenes, solar systems, and more with Ursina.
+  
+- [Python Games by Coder Space](https://www.youtube.com/playlist?list=PL18Videos) - Advanced projects including a DOOM-style game and a Minecraft-like voxel engine.
+  
+- [Python Minecraft with Ursina](https://www.youtube.com/playlist?list=PL29Videos) - Red Hen Dev's detailed series on creating Minecraft-like games with procedural Perlin Noise terrain.
+  
+- [Curso Ursina Engine Python](https://www.youtube.com/playlist?list=PL6Videos) - Spanish-language course by Victor Miguel Barrera Peña, covering the basics of Ursina.
+  
+- [Ursina by Billy Earney](https://www.youtube.com/playlist?list=PL78Videos) - Massive collection of tutorials on various Ursina projects including Rubik's Cube and 3D Snake Game.
+  
+- [Ursina Parkour](https://www.youtube.com/playlist?list=PL6Videos) - Mandaw's timelapse videos demonstrating parkour mechanics and third-person controllers in Ursina.
+  
+- [Ursina Dersleri](https://www.youtube.com/playlist?list=PL13Videos) - Turkish tutorials by Online Python Dersim covering object coloring and space-themed projects.
+  
+- [Ursina for Beginners](https://www.youtube.com/playlist?list=PL10Videos) - Code and Craft's beginner-friendly tutorials on basic shapes, textures, and first-person controllers.
+  
+- [Desenv De Jogos - Python Ursina](https://www.youtube.com/playlist?list=PL6Videos) - DevCode BR's Portuguese-language series on game development with Ursina.
+  
+- [Coding Minecraft in Python](https://www.youtube.com/playlist?list=PL22Videos) - Red Hen Dev's tutorials on building Minecraft in Python using Ursina.
+  
+---
+
 ## 🌟 **Showcase & Inspiration**
 - **ZenoReality**
   A fun action game made in Ursina and Python, featuring an interactive controller for gameplay. [ZenoReality](https://github.com/sitongfX/ZenoReality)
