@@ -51,6 +51,16 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ItsRoy69/PYGAME-PROJECTS) **PYGAME-PROJECTS** - A collection of games developed using Pygame and Ursina.
 
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/csd4ni3l/aim-trainer) **aim-trainer** - A simple aim trainer game built in Python using the Ursina Engine.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/Forest) **Forest** - A stylized environment-based game demo built with Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/sword_combat) **Sword Combat** - A 3D sword-fighting prototype using the Ursina Engine.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/parkourold) **Parkour (Old)** - An early experiment with parkour movement mechanics in Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/parkour-collab) **Parkour Collab** - A collaborative parkour movement system demo made in Ursina.
+
 ---
 
 ## 🛠️ **Tools & Extensions**
@@ -72,6 +82,28 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/PaologGithub/UrsinaForMobile) **UrsinaForMobile** - A repository to assist in porting Ursina games to mobile platforms (Android only).
 
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/quanhoangbla/MapEditorForUrsina) **MapEditorForUrsina** - A visual map editor tool for designing game levels in Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Roadbobek/Improved_Level_Editor_Ursina_Engine) **Improved Level Editor** - An enhanced level editing extension for the Ursina Engine with UI improvements and workflow enhancements.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/bl4m/sphere-player-controller) **Sphere Player Controller** - A third-person spherical movement controller made with Ursina.
+  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/bl4m/Lighting) **bl4m/Lighting** - Custom real-time lighting system for Ursina with adjustable shadows.
+  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/bl4m/Ursina-Perlin-Terrain) **Ursina Perlin Terrain** - A terrain generation tool using Perlin noise with chunk management.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ShivamKR12/Level_Editor) **Level Editor** - A lightweight level editor using Ursina's in-game UI and tools.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ShivamKR12/VoxelStream) **VoxelStream** - A basic voxel world streaming/procedural chunking prototype for Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ShivamKR12/ursina-touch-controls) **Ursina Touch Controls** - A touch-friendly control overlay for mobile games built with Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ShivamKR12/UrsinaForMobile) **UrsinaForMobile (Fork)** - A fork of Ursina mobile compatibility tools, with custom tweaks.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/PlayerController) **PlayerController** - A versatile first- and third-person character controller built in Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/ursinaeditor) **Ursina Editor** - A level and scene editor experiment created by mandaw for Ursina-based workflows.
+
 ---
 
 ## 📚 **Tutorials & Resources**
@@ -85,6 +117,10 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 - [![Tutorial](https://img.shields.io/badge/Tutorial-34A853?logo=googlechrome&logoColor=white)](https://www.ursinaengine.org/shader_programming.html) **Advanced Shaders in Ursina** - Create custom shaders and visual effects.
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/RedHenDev/ursina_tutorials) **ursina_tutorials** - Collection of tutorials for the Ursina Engine.
+
+- [![Website](https://img.shields.io/badge/Tutorial-34A853?logo=googlechrome&logoColor=white)](http://www.codingwithruss.com/ursina/minecraft-in-python-3d-game-tutorial/) **Minecraft in Python (Coding with Russ)** - A full 3D Minecraft-style game tutorial using Ursina.
+  
+- [![Article](https://img.shields.io/badge/Blog%20Post-4285F4?logo=devdotto&logoColor=white)](https://blog.devgenius.io/a-lightweight-game-engine-for-python-ursina-engine-6a2fd730889) **Intro to Ursina Engine** - A beginner-friendly article on the Ursina Engine and its features.
 
 ---
 
@@ -135,6 +171,8 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kairess/minecraft-clone) **Minecraft Clone** - A Minecraft clone using Python and Ursina.
 
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/bl4m) **bl4m** - A collection of Ursina experiments, demos, and utilities maintained by community member bl4m.
+
 ---
 
 ## 💬 **Community Discussions**
@@ -154,6 +192,12 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/pokepetter/ursina) **Ursina GitHub Repository** - The official GitHub repository for Ursina.
 
 - [![Docs](https://img.shields.io/badge/Docs-4285F4?logo=readthedocs&logoColor=white)](https://www.ursinaengine.org/documentation.html) **Ursina Documentation** - Comprehensive documentation for the Ursina engine.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Kxffie/ursinawebsite) **ursinawebsite** - A customizable static site template for showcasing Ursina projects and documentation.
+
+- [![Website](https://img.shields.io/badge/Demo-000000?logo=vercel&logoColor=white)](https://ursinawebsite.vercel.app/) **Ursina Website Demo (Vercel)** - A live preview of the `ursinawebsite` project hosted on Vercel.
+
+- [![Website](https://img.shields.io/badge/Demo-000000?logo=GoogleChrome&logoColor=white)](https://kxffie.github.io/ursinawebsite/) **Ursina Website Demo (GitHub Pages)** - Another hosted version of the `ursinawebsite` on GitHub Pages.
 
 ---
 
