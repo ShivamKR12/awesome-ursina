@@ -61,6 +61,18 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/parkour-collab) **Parkour Collab** - A collaborative parkour movement system demo made in Ursina.
 
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Creator754915/Zombie-Shooter) **Zombie-Shooter** - A top-down zombie survival shooter made with Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/hamedsheygh/DoomMaker) **DoomMaker** - A retro-style shooter inspired by DOOM, built with Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Vxtzq/Openworld) **Openworld** - An open-world game prototype using Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/KolenMG/3rd-PersonGame-Ursina) **3rd-Person Game (Ursina)** - A third-person controller game made with Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/cpbeto/PyAO) **PyAO** - A space shooter prototype made in Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/JamesParkerStrand/Car-rotating-example-in-ursina-engine) **Car Rotation Demo** - A simple car movement/rotation demo in Ursina.
+
 ---
 
 ## 🛠️ **Tools & Extensions**
@@ -104,6 +116,18 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/ursinaeditor) **Ursina Editor** - A level and scene editor experiment created by mandaw for Ursina-based workflows.
 
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Creator754915/MeshStudio) **MeshStudio** - A simple 3D mesh modeling tool using Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Creator754915/MeshStudio-V2) **MeshStudio V2** - A redesigned version of MeshStudio with improved UI and modeling features.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Creator754915/Ursina.More.UI) **Ursina.More.UI** - Extra UI elements, widgets, and models for Ursina projects.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MOD0912/Ursina-2d-widgets) **Ursina-2D-Widgets** - A collection of 2D widgets for UI development in Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/IndividualCoder/GamePlus-Editor) **GamePlus Editor** - A powerful in-game visual editor and level designer for Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raphi-2Code/SQL-Editor-Ursina) **SQL Editor (Ursina)** - A custom SQL database editor with a 3D Ursina interface.
+
 ---
 
 ## 📚 **Tutorials & Resources**
@@ -121,6 +145,10 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 - [![Website](https://img.shields.io/badge/Tutorial-34A853?logo=googlechrome&logoColor=white)](http://www.codingwithruss.com/ursina/minecraft-in-python-3d-game-tutorial/) **Minecraft in Python (Coding with Russ)** - A full 3D Minecraft-style game tutorial using Ursina.
   
 - [![Article](https://img.shields.io/badge/Blog%20Post-4285F4?logo=devdotto&logoColor=white)](https://blog.devgenius.io/a-lightweight-game-engine-for-python-ursina-engine-6a2fd730889) **Intro to Ursina Engine** - A beginner-friendly article on the Ursina Engine and its features.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/HarrisonTCodes/ursina-proteins) **Ursina Proteins** – A scientific protein visualizer made with Ursina; also featured on the Ursina official site.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raphi-2Code/Ursina-Wikipedia) **Ursina-Wikipedia** - A knowledge base on Ursina Engine projects, utilities, and experiments.
 
 ---
 
@@ -172,6 +200,12 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kairess/minecraft-clone) **Minecraft Clone** - A Minecraft clone using Python and Ursina.
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/bl4m) **bl4m** - A collection of Ursina experiments, demos, and utilities maintained by community member bl4m.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/hamedsheygh/supePY) **supePY** - A full 3D game suite made in Python using Ursina, with a launcher and multiple games.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raphi-2Code/Voxel-Engine-Ursina) **Voxel Engine (Ursina)** - A fully working voxel engine demo using Ursina with terrain and block mechanics.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raphi-2Code/SineWave) **SineWave** - A visualization of sine wave propagation using Ursina entities.
 
 ---
 
