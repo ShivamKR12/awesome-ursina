@@ -205,7 +205,7 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raphi-2Code/Voxel-Engine-Ursina) **Voxel Engine (Ursina)** - A fully working voxel engine demo using Ursina with terrain and block mechanics.
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raphi-2Code/SineWave) **SineWave** - A visualization of sine wave propagation using Ursina entities.
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raphi-2Code/SineWave) **SineWave** - A fully functional browser UI created with the Ursina game engine.
 
 ---
 
