@@ -25,6 +25,8 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 ---
 
 ## 🎮 **Games**
+- [![Website](https://img.shields.io/badge/Website-000000?logo=googlechrome&logoColor=white)](https://slhide.free.nf/phalanger.php) **Phalanger** - A polished endless scroller game built with Ursina for Android. Run, jump, climb, and glide through beautiful environments while collecting nuts. One of the most popular Ursina-based mobile games.
+
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/DawoodLaiq/Ursina-Projects) **Ursina-Projects** - A collection of basic games including Build and Destroy, Breakout, FPS, Maze, and Skipping Stone, created with the Ursina Engine.
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/OfficialAhmed/2D-GAME-IN-URSINA) **2D Platformer Game** - An experimental 2D platformer game featuring random enemy spawning, built using the Ursina Python Engine.
