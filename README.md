@@ -39,8 +39,6 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/Rally) **Rally** - A simple racing game made in Python with the Ursina Engine.
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MysteryCoder456/UrsinaFPS) **UrsinaFPS** - Multiplayer FPS game made in Ursina Engine.
-
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/Sandbox) **Sandbox** - A simple fast-paced FPS made in Python using the Ursina Engine.
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/mandaw_openworld) **mandaw_openworld** - An open-world game made with the Ursina Game Engine.
@@ -53,9 +51,7 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ItsRoy69/PYGAME-PROJECTS) **PYGAME-PROJECTS** - A collection of games developed using Pygame and Ursina.
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/csd4ni3l/aim-trainer) **aim-trainer** - A simple aim trainer game built in Python using the Ursina Engine.
-
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/Forest) **Forest** - A stylized environment-based game demo built with Ursina.
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/csd4ni3l/aim-trainer) **aim-trainer** - A highly configurable aim trainer built in Ursina (multiple modes, custom enemies/guns).
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/sword_combat) **Sword Combat** - A 3D sword-fighting prototype using the Ursina Engine.
 
@@ -73,8 +69,6 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/cpbeto/PyAO) **PyAO** - A work-in-progress recreation of the classic MMORPG *Argentum Online*, built in Python using the Ursina Engine.
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/JamesParkerStrand/Car-rotating-example-in-ursina-engine) **Car Rotation Demo** - A simple car movement/rotation demo in Ursina.
-
 ---
 
 ## 🛠️ **Tools & Extensions**
@@ -82,7 +76,7 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/megat69/UrsinaAchievements) **UrsinaAchievements** - An achievements system for games built with the Ursina Engine.
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Creator754915/Ursina.More.UI) **Ursina More UI** - Additional UI components and models for the Ursina Engine.
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Creator754915/Ursina.More.UI) **Ursina.More.UI** - Additional UI components and models for the Ursina Engine.
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/BellVirtual/Ursina_Procedural_Generation) **Ursina Procedural Generation** - A basic procedural generation system in Python using the Ursina module, including a rudimentary chunk rendering system.
 
@@ -98,7 +92,7 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/quanhoangbla/MapEditorForUrsina) **MapEditorForUrsina** - A visual map editor tool for designing game levels in Ursina.
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Roadbobek/Improved_Level_Editor_Ursina_Engine) **Improved Level Editor** - An enhanced level editing extension for the Ursina Engine with UI improvements and workflow enhancements.
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Roadbobek/Improved_Level_Editor_Ursina_Engine) **Improved Level Editor** - An updated fork of an Ursina level editor with additional features.
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/bl4m/sphere-player-controller) **Sphere Player Controller** - A third-person spherical movement controller made with Ursina.
   
@@ -207,7 +201,11 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raphi-2Code/Voxel-Engine-Ursina) **Voxel Engine (Ursina)** - A fully working voxel engine demo using Ursina with terrain and block mechanics.
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raphi-2Code/SineWave) **SineWave** - A fully functional browser UI created with the Ursina game engine.
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Raphi-2Code/SineWave) **SineWave** - An Ursina-based Chromium browser experiment / desktop UI demo.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/JamesParkerStrand/Car-rotating-example-in-ursina-engine) **Car Rotation Demo** - A simple car movement/rotation demo in Ursina.
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/mandaw2014/Forest) **Forest** - A stylized environment-based game demo built with Ursina.
 
 ---
 
