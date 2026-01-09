@@ -71,7 +71,7 @@ A curated list of awesome projects, tools, and resources for the Ursina game eng
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/KolenMG/3rd-PersonGame-Ursina) **3rd-Person Game (Ursina)** - A third-person controller game made with Ursina.
 
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/cpbeto/PyAO) **PyAO** - A space shooter prototype made in Ursina.
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/cpbeto/PyAO) **PyAO** - A work-in-progress recreation of the classic MMORPG *Argentum Online*, built in Python using the Ursina Engine.
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/JamesParkerStrand/Car-rotating-example-in-ursina-engine) **Car Rotation Demo** - A simple car movement/rotation demo in Ursina.
 
