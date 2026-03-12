@@ -7,7 +7,7 @@ Thank you for considering contributing to **Awesome Ursina**! We welcome additio
 1. **Fork the Repository** – Click the "Fork" button to create a copy of this repository on your GitHub account.  
 2. **Clone the Fork** – Clone your fork to your local machine:  
     ```bash
-    git clone https://github.com/YOUR_USERNAME/awesome-ursina.git
+    git clone https://github.com/ShivamKR12/awesome-ursina.git
     cd awesome-ursina
     ```  
 3. **Create a New Branch** – Name it something descriptive, like `add-new-tool` or `update-tutorial-section`:  
